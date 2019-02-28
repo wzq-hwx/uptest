@@ -1,0 +1,8 @@
+prefix=/home/roc/tutorial_ws/install
+
+Name: navigation_sim_demo
+Description: Description of navigation_sim_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/roc/tutorial_ws/install/lib 
+Requires: urdf xacro
